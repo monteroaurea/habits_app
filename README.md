@@ -13,6 +13,7 @@ Desenvolvido com React, React-Native, Node.js, Typescript, Expo e Tailwindcss.
 *Mentoria e instrutores: Diego Fernandes e Rodrigo Gonçalves*<br>
 <br>
 
-### **NLW SETUP** - **Trilha Ignite**<br>
+### **NLW Setup** **Trilha Ignite** <br>
 
-### **Rocketseat**
+ ###  *Rocketseat*  :rocket:  ###
+ 
